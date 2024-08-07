@@ -1,0 +1,27 @@
+bootstrao classes
+hii
+hidden_lg:below 1200  not visible
+visible_lg:only visible for  1200'
+for medim :md
+for samll: sm
+for xtra :xs
+container: minspacing on both sides
+container-fluid:no spacing completely filled
+jumbotron fot a box like text with inside box grey
+glyphicons for icpons
+ table table-striped table-bordered
+table-hover
+for scroll bar in< table-responsive>
+layout
+class col-lg-1 columnn_style
+offset
+col-xs-offset-2
+nav bsar
+navbar navbar-inverse
+
+
+
+
+
+
+
